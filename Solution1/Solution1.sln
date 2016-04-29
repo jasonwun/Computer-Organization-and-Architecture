@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51E5074D-B663-488E-AF3C-4D362667C444}"
+	ProjectSection(SolutionItems) = preProject
+		Assembly Language Basics.s = Assembly Language Basics.s
+		Combinational Circuits II.c = Combinational Circuits II.c
+		Floating point Multiplication.c = Floating point Multiplication.c
+		Integer Representation.c = Integer Representation.c
+		Sequential Circuits.c = Sequential Circuits.c
+		SPARC CTIs.c = SPARC CTIs.c
+		SPARC Data Organization.s = SPARC Data Organization.s
+		SPARC ISA.c = SPARC ISA.c
+		SPARC Subprograms.s = SPARC Subprograms.s
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
